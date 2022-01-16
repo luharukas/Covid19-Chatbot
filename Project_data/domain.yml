@@ -61,187 +61,181 @@ intents:
 
 responses:
   utter_Quarantine_visits:
-  - text: According to my sugeestion it will be safe for you if you maintain the distance from all the members
+  - text: "According to my suggestion it will be safe for you if you maintain the distance of 2 meters or 6 feet from the members"
 
   utter_Outside_Activities:
-  - text: If there is curfew in your city, please dont go outside. You can go to terrace for taking fresh air.
+  - text: "If there is curfew in your city, please dont go outside. Otherwise you can go out maintaining social distance by wearing mask."
 
   utter_globalcovid_pandemic:
-  - text: Panedemic means an outbreak of a disease that occurs over a wide geographic area (such as multiple countries or continents) and typically affects a significant proportion of the population, a pandemic outbreak of a disease
+  - text: "A pandemic is the worldwide spread of a new disease,COVID-19. An epidemic, is when many more cases of a health condition occur than expected in a certain region, but it does not spread further."
 
   utter_About_Anezka_WhoAreYou:
-  - text: 
+  - text: "I am a chatbot powered by Rasa"
 
   utter_Quarantine_living_alone:
-  - text: 
+  - text: "Isolate immediately and get tested. Continue to stay home until you know the results."
 
   utter_general_ThankYou:
-  - text: 
+  - text: "welcome "
 
   utter_aboutVirus_PostalServices:
-  - text: 
+  - text: "No, not from postal services. If someone who has the virus talks, coughs, or sneezes, and you inhale these droplets, you can develop COVID-19."
 
   utter_Go_Hospital_See_Doctor:
-  - text: "Here is something to cheer you up:"
-    image: "https://i.imgur.com/nGF1K8f.jpg"
+  - text: "If someone is showing any of these signs, seek emergency medical care immediately: Trouble breathing. Persistent pain or pressure in the chest."
 
   utter_yes:
   - text: "Did that help you?"
 
   utter_COVID_Description:
-  - text: "Great, carry on!"
+  - text: "Coronavirus disease (COVID-19) is an infectious disease caused by the SARS-CoV-2 virus were discovered in Wuhan, China."
 
   utter_general_Help:
-  - text: "Bye"
+  - text: "How can I help you?"
 
   utter_Testing_information:
-  - text: "I am a bot, powered by Rasa."
+  - text: "PCR test, also called a molecular test or polymerase chain reaction test, detects genetic material specific to the virus that causes COVID-19.It is often more accurate than a rapid test, especially in individuals without symptoms"
 
   utter_travel_risk_countries:
-  - text: "Hey! How are you?"
+  - text: "US, INDIA,BRAZIL,UK,FRANCE are the countrties with highest number of covid cases and high risk to travel."
 
   utter_Quarantine_living_with_others:
-  - text: "Here is something to cheer you up:"
-    image: "https://i.imgur.com/nGF1K8f.jpg"
+  - text: "Stay in a well-ventilated single-room preferably with an attached/separate toilet. If another family member needs to stay in the same room, it is advisable to maintain a distance of atleast 1 meter between the two.:"
+
 
   utter_volunteering:
-  - text: "Did that help you?"
+  - text: "Are you willing to provide volunteer services in this current pandemic suitation"
 
   utter_Travel_Restrictions:
-  - text: "Great, carry on!"
+  - text: "Do not travel if you test positive for COVID-19. If you are not fully vaccinated and must travel, get tested both before and after your trip."
 
-  utter_Treatment_info:
-  - text: "Bye"
+ utter_Treatment_info:
+  - text: "If you test positive. please consult the doctor for medication immediately. Use medicines under proper guidence"
 
   utter_schools_employees:
-  - text: "I am a bot, powered by Rasa."
+  - text: "Follow the guidelines issued by state government."
 
 
   utter_COVID_Illness_Length:
-  - text: "Hey! How are you?"
+  - text: "On average it takes 6 days from when someone is infected with the virus for symptoms to show, however it can take up to 14 days."
 
-  utter_Treatment_shortnessOfBreath:
-  - text: "Here is something to cheer you up:"
-    image: "https://i.imgur.com/nGF1K8f.jpg"
+   utter_Treatment_shortnessOfBreath:
+  - text: " shortness of breath  means a tight sensation in your chest  feeling like you need to breathe more often or more quickly"
 
-  utter_travel_embassies:
-  - text: "Did that help you?"
+  utter_travel_embassies: 
+  - text: "Please contact respective  government embassies and follow their guidelines "
 
   utter_Quarantine_what_to_do:
-  - text: "Great, carry on!"
+  - text: "You have to self-isolate for 10 full days if you've tested positive for coronavirus (COVID-19)"
 
   utter_Cleaning_Disinfecting:
-  - text: "Bye"
+  - text: "Disinfection is needed only if someone who is positive for COVID-19 has been in your home within the last 24 hours. Clean high-touch surfaces regularly or as needed and after you have visitors in your home.Regular household cleaning and disinfection products will effectively eliminate the virus from household surfaces"
 
   utter_Treatment_discovering_medicine:
-  - text: "I am a bot, powered by Rasa."
+  - text: "Under normal circumstances, making a vaccine can take up to 10–15 years. This is because of the complexity of vaccine development"
 
   utter_Shopping_Groceries:
-  - text: "Hey! How are you?"
+  - text: "Yes, it is generally safe to go grocery shopping and to markets by following social distance , wearing a mask and wash hands properly.There is currently no confirmed case of COVID-19 transmitted through food or food packaging."
 
   utter_govt_emergency:
-  - text: "Here is something to cheer you up:"
-    image: "https://i.imgur.com/nGF1K8f.jpg"
-
-  utter_Prevention_howto_wash_hands:
-  - text: "Did that help you?"
+  - text: "State of emergency means  that  government suspends normal constitutional procedures in order to regain control.Respective Governmenrt has all rights to take the necessary measures and it lasts utill pandemic situation ends :"
+  
+   utter_Prevention_howto_wash_hands:
+   - text: "Follow these five steps to wash hands properly:
+   1.Wet your hands with clean, running water (warm or cold), turn off the tap, and apply soap.
+   2. Lather your hands by rubbing them together with the soap. Lather the backs of your hands, between your fingers, and under your nails.
+   3. Scrub your hands for at least 20 seconds. Need a timer? Hum the “Happy Birthday” song from beginning to end twice.
+   4. Rinse your hands well under clean, running water.
+   5. Dry your hands using a clean towel or air dry them"
 
   utter_aboutVirus_HighRiskGroups:
-  - text: "Great, carry on!"
+  - text: "COVID-19 is often more severe in people who are older than 60 years or who have health conditions like lung or heart disease, diabetes or conditions that affect their immune system ""
 
-  utter_aboutVirus_USready:
-  - text: "Bye"
+   utter_aboutVirus_USready:
+   - text: "Bye"
 
-  utter_globalcovid_WHO:
-  - text: "I am a bot, powered by Rasa."
+   utter_globalcovid_WHO:
+   - text: "Coronavirus disease (COVID-19) is an infectious disease caused by the SARS-oV-2 virus. Protect yourself and others by maintaining social distance of 1 metre apart from others, wearing a properly fitted mask, and washing your hands or using an alcohol-based rub frequently. Get vaccinated  and follow local guidance".
 
   utter_Paid_Sick_Leave:
-  - text: "Hey! How are you?"
+  - text: "A worker may use paid sick leave if required to leave work under these circumstances. However, the employer cannot force or require the employee to use their paid sick leave to cover the absence"
 
   utter_Protecting_Against_Infection:
-  - text: "Here is something to cheer you up:"
-    image: "https://i.imgur.com/nGF1K8f.jpg"
+  - text: "Preventive measures include physical or social distancing, quarantining, ventilation of indoor spaces, covering coughs and sneezes, hand washing, and keeping unwashed hands away from the face. The use of face masks or coverings has been recommended in public settings to minimise the risk of transmissions."
 
   utter_travel_backtoUS:
-  - text: "Did that help you?"
+   - text: "Yes, you can travel back to US unless you are not from the  country under red list "
 
-  utter_About_Anezka_hate:
-  - text: "Great, carry on!"
+   utter_About_Anezka_hate:
+  - text: " Sorry for the inconvenience, How can i help you? "
 
   utter_masks_availability:
-  - text: "Bye"
+   - text: "Sorruy for the inconenience.The masks will be available soon"
 
   utter_Quarantine_social_aid:
-  - text: "I am a bot, powered by Rasa."
+  - text: "Yes,you can work from home during quarantine.Make sure you comply with Quarantine Act and follow Public Health Guidelines "
 
   utter_Testing_Locations:
-  - text: "Hey! How are you?"
+  - text: "COVID-19 tests are available at no cost nationwide at health centers and select pharmacies."
 
   utter_contacts_handover:
-  - text: "Here is something to cheer you up:"
-    image: "https://i.imgur.com/nGF1K8f.jpg"
+  - text: "Please wait till Call is get transfered"
+
 
   utter_Case_Count:
-  - text: "Did that help you?"
+  - text: "Please folow the mentioned link to get the latest update on covid cases .https://www.worldometers.info/coronavirus/"
 
   utter_COVID_Comparing_Illness:
-  - text: "Great, carry on!"
+ - text: "Influenza (flu) and COVID-19 are both contagious respiratory illnesses, caused by different viruses. COVID-19 is caused by coronavirus first identified in 2019, and flu is caused by infection with influenza viruses. COVID-19 seems to spread more easily than flu."
 
   utter_Quarantine_eligibility:
-  - text: "Bye"
+  - text: "Acoording to WHO 10 days after your last close contact with someone with COVID-19, watch for fever (100.4◦F or greater), cough, shortness of breath, or other COVID-19 symptoms . If you develop symptoms, get tested immediately and isolate until you receive your test results. If you test positive, follow isolation recommendations."
 
   utter_Symptoms:
-  - text: "I am a bot, powered by Rasa."
+   text: "Most common symptoms:fever,cough,tiredness,loss of taste or smell. Seek immediate medical attention if you have these  symptoms. Always call before visiting your doctor or health facility."
 
-  utter_About_Anezka_HowAreYou:
-  - text: "Here is something to cheer you up:"
-    image: "https://i.imgur.com/nGF1K8f.jpg"
+   utter_About_Anezka_HowAreYou:
+   - text: "I am a bot, powered by Rasa."
+ 
 
   utter_Treatment_vaccine:
-  - text: "Did that help you?"
+   - text: "Yes, Covid vaccines are  Availbale.Please go through the mentioned link for the details of vaccines approved by WHO.https://covid19.trackvaccines.org/agency/who/"
 
   utter_aboutVirus_Transmission:
-  - text: "Great, carry on!"
+  - text: "COVID-19 is mainly transmitted when people breathe in air contaminated by droplets and small airborne particles containing the virus. Infected people exhale those particles as they breathe, talk, cough, sneeze, or sing"
 
-  utter_Unemployment_Application:
-  - text: "Bye"
+ utter_Unemployment_Application:
+  text: "You should contact your state's unemployment insurance program as soon as possible after becoming unemployed."
 
   utter_School_shutdown:
-  - text: "I am a bot, powered by Rasa."
+   - text: "EDucatinal institutions will be closed untill the pandemic situation is under control.Please follow the guidelines issued bythe respective local government "
 
-  utter_COVID_Pets_Animals:
-  - text: "Hey! How are you?"
+   utter_COVID_Pets_Animals:
+  - text: "Based on the available information to date, the risk of animals spreading COVID-19 to people is considered to be low."
 
   utter_Testing_Results:
-  - text: "Here is something to cheer you up:"
-    image: "https://i.imgur.com/nGF1K8f.jpg"
+  - text: "Its based on the type of test you have taken.Please follow the guidelines issued by the respective local government "
 
-  utter_About_Anezka_Greeting:
-  - text: "Did that help you?"
+   utter_About_Anezka_Greeting:
+  text: "Good Morning"
 
   utter_schools_erasmus:
-  - text: "Great, carry on!"
+  text: "Please follow the mentioned link to get the latest updates on Erasmus .https://erasmus-plus.ec.europa.eu/"
 
-  utter_aboutVirus_Incubation_Period:
-  - text: "Bye"
+   utter_aboutVirus_Incubation_Period:
+   - text: "On average it takes 5-6 days from when someone is infected with the virus for symptoms to show, however it can take up to 14 days."
 
   utter_Treatment_hospital_capacity:
-  - text: "I am a bot, powered by Rasa."
+  - text: "Please folow the mentioned link to get latest updates on Hospital bed availability"
 
   utter_masks_protection:
-  - text: "Did that help you?"
+  text: " Yes. Face masks combined with other preventive measures, such as getting vaccinated, frequent hand-washing and social distancing, can help slow the spread of the virus that causes COVID-19."
 
   utter_Treatment_reached_capacity:
-  - text: "Great, carry on!"
+  - text: "Please follow the guidelines issued by the local government "
 
   utter_COVID_Mortality_Rate_Likelihood:
-  - text: "Bye"
+  - text: "Mortality occurs only if a person heve not recieved proper medication.Please follow the link to get the latest updates on mortality rate https://www.worldometers.info/coronavirus/"
 
   utter_Event_Shutdowns:
-  - text: "I am a bot, powered by Rasa."
-
-
-
-session_config:
-  session_expiration_time: 60
-  carry_over_slots_to_new_session: true
+  - text: "Please follow the guidelines issued by the respective local goverment"
